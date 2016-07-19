@@ -4,7 +4,7 @@
  text-align: center;
  }
  .jumbotron{
-  border: 2px solid black;
+  
  }
  .Info{
   text-align: center;
@@ -16,6 +16,7 @@
   font-size:18px;
  }
  .JO{
+  border: 2px solid black;
   margin:10px;
  }
  .AC{
@@ -35,6 +36,7 @@
   margin:10px;
  }
  .AW{
+  border: 2px solid black;
   margin:10px;
  }
 
