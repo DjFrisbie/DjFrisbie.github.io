@@ -41,5 +41,8 @@
  }
  .photo{
   border: 2px solid black;
+  float: right;
+  height: 10px;
+  width: 10px;
  }
 
