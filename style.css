@@ -1,9 +1,12 @@
-h1{
+.container{
  font-size: 64px;
  font-family: Arial;
  text-align: center;
  }
  .Info{
   text-align: center;
+ }
+ p{
+  font-size:12px;
  }
 
