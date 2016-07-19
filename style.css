@@ -3,6 +3,9 @@
  font-family: Arial;
  text-align: center;
  }
+ .jumbotron{
+  border: 2px solid black;
+ }
  .Info{
   text-align: center;
  }
