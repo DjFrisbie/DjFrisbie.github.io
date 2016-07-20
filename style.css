@@ -15,6 +15,9 @@
  li{
   font-size:18px;
  }
+ .PR{
+  float: left;
+ }
  .JO{
   border: 2px solid black;
   margin:10px;
