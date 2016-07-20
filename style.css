@@ -18,7 +18,7 @@
  .PR{
   float: left;
   font-size: 24px;
-  border: 2px solid black;
+  border: 2px solid white;
  }
  .JO{
   border: 2px solid black;
@@ -49,6 +49,6 @@
   float: right;
   height: 400px;
   width: 400px;
-  margin: 10px;
+  margin: 15px;
  }
 
