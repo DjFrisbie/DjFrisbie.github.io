@@ -1,9 +1,14 @@
+body { 
+ background-color: dimgray;
+}
 .container{
  font-size: 64px;
+ font-color: gainsboro;
  font-family: Arial;
  text-align: center;
  }
  .container h1{
+  font-color: gainsboro;
   font-family: TimesNewRoman;
  }
  .jumbotron{
@@ -11,40 +16,50 @@
  }
  .Info{
   text-align: center;
+  font-color: gainsboro;
  }
  p{
   font-size:24px;
+  font-color: gainsboro;
  }
  li{
   font-size:18px;
+  font-color: gainsboro;
  }
  .PR{
+  font-color: gainsboro;
   float: left;
   font-size: 24px;
-  border: 2px solid white;
+  border: 2px solid gainsboro;
   text-align: left;
  }
  .JO{
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .AC{
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .EH{
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .VE{
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .ED{
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .AW{
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
