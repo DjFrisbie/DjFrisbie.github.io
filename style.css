@@ -3,6 +3,7 @@ body {
 }
 .container{
  font-size: 64px;
+ background-color: dimgray;
  font-color: gainsboro;
  font-family: Arial;
  text-align: center;
