@@ -2,31 +2,37 @@
 .container{
  font-size: 64px;
  background-color: dimgray;
- color: white;
+ color: gainsboro;
  font-color: black;
  font-family: Arial;
  text-align: center;
  }
  .container h1{
+  color: gainsboro;
   font-color: white;
   font-family: TimesNewRoman;
  }
  .jumbotron{
+  color: gainsboro;
   background-color: dimgray;
  }
  .Info{
+  color: gainsboro;
   text-align: center;
   font-color: white;
  }
  p{
+  color: gainsboro;
   font-size:24px;
   font-color: white;
  }
  li{
+  color: gainsboro;
   font-size:18px;
   font-color: white;
  }
  .PR{
+  color: gainsboro;
   font-color: white;
   float: left;
   font-size: 24px;
@@ -34,39 +40,47 @@
   text-align: left;
  }
  .JO{
+  color: gainsboro;
   background-color: dimgray;
   font-color: white;
   border: 2px solid black;
   margin:10px;
  }
  .AC{
+  color: gainsboro;
   background-color: dimgray;
   font-color: white;
   border: 2px solid black;
   margin:10px;
  }
  .EH{
+  color: gainsboro;
   background-color: dimgray;
   font-color: white;
   border: 2px solid black;
   margin:10px;
  }
- .VE{
+ .VE{ 
+  color: gainsboro;
   background-color: dimgray;
   font-color: white;
   border: 2px solid black;
   margin:10px;
  }
  .ED{
+  color: gainsboro;
   background-color: dimgray;
   font-color: white;
   border: 2px solid black;
   margin:10px;
  }
  .AW{
+  color: gainsboro;
   background-color: dimgray;
   font-color: white;
   border: 2px solid black;
   margin:10px;
  }
-
+a{
+ color: black;
+}
