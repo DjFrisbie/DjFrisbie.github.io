@@ -2,27 +2,28 @@ body{
   background-color:#383838;
  }
 .container{
- font-size: 64px;
- background-color: dimgray;
- color: gainsboro;
- font-family: Arial;
- text-align: center;
+  font-size: 64px;
+  background-color: dimgray;
+  color: gainsboro;
+  font-family: Arial;
+  text-align: center;
  }
  .container h1{
-  color: gainsboro;
-  font-family: TimesNewRoman;
+   color: gainsboro;
+   font-family: TimesNewRoman;
  }
  .jumbotron{
-  color: gainsboro;
-  background-color: dimgray;
-  padding-left: 10px;
+   color: gainsboro;
+   background-color: dimgray;
+   padding-left: 10px;
  }
  h4{
-  font-size:28px;
+   font-size:28px;
+   color: gainsboro;
  }
  .Info{
-  text-align: center;
-  color: gainsboro;
+   text-align: center;
+   color: gainsboro;
  }
  p{
   font-size:24px;
@@ -33,59 +34,59 @@ body{
   color: gainsboro;
  }
  .PR{
-  color: gainsboro;
-  float: left;
-  font-size: 24px;
-  text-align: left;
+   color: gainsboro;
+   float: left;
+   font-size: 24px;
+   text-align: left;
  }
  .JO{
-  background-color: dimgray;
-  color: gainsboro;
-  border: 2px solid black;
-  padding-left: 10px;
-  margin:10px;
+   background-color: dimgray;
+   color: gainsboro;
+   border: 2px solid black;
+   padding-left: 10px;
+   margin:10px;
  }
  .AC{
-  background-color: dimgray;
-  color: gainsboro;
-  border: 2px solid black;
-  padding-left: 10px;
-  margin:10px;
+   background-color: dimgray;
+   color: gainsboro;
+   border: 2px solid black;
+   padding-left: 10px;
+   margin:10px;
  }
  .EH{
-  background-color: dimgray;
-  color: gainsboro;
-  border: 2px solid black;
-  padding-left: 10px;
-  margin:10px;
+   background-color: dimgray;
+   color: gainsboro;
+   border: 2px solid black;
+   padding-left: 10px;
+   margin:10px;
  }
  .VE{ 
-  background-color: dimgray;
-  color: gainsboro;
-  border: 2px solid black;
-  padding-left: 10px;
-  margin:10px;
+   background-color: dimgray;
+   color: gainsboro;
+   border: 2px solid black;
+   padding-left: 10px;
+   margin:10px;
  }
  .ED{
-  background-color: dimgray;
-  color: gainsboro;
-  border: 2px solid black;
-  padding-left: 10px;
-  margin:10px;
+   background-color: dimgray;
+   color: gainsboro;
+   border: 2px solid black;
+   padding-left: 10px;
+   margin:10px;
  }
  .AW{
-  background-color: dimgray;
-  color: gainsboro;
-  border: 2px solid black;
-  padding-left: 10px;
-  margin:10px;
+   background-color: dimgray;
+   color: gainsboro;
+   border: 2px solid black;
+   padding-left: 10px;
+   margin:10px;
  }
  a:link{
-  color: black;
-  background-color: transparent;
+   color: black;
+   background-color: transparent;
  }
  a:visited{
-  color: white;
-  background-color: transparent;
+   color: white;
+   background-color: transparent;
  }
  
