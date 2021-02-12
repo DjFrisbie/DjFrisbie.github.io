@@ -7,70 +7,69 @@
  text-align: center;
  }
  .container h1{
-  font-color: gainsboro;
+  color: gainsboro;
   font-family: TimesNewRoman;
  }
  .jumbotron{
-  font-color: gainsboro;
+  color: gainsboro;
   background-color: dimgray;
+  padding-left: 10px;
  }
  .Info{
-  
   text-align: center;
-  font-color: gainsboro;
+  color: gainsboro;
  }
  p{
-  
   font-size:24px;
-  font-color: gainsboro;
+  color: gainsboro;
  }
  li{
   
   font-size:18px;
-  font-color: gainsboro;
+  color: gainsboro;
  }
  .PR{
-  font-color: gainsboro;
+  color: gainsboro;
   float: left;
   font-size: 24px;
   text-align: left;
  }
  .JO{
   background-color: dimgray;
-  font-color: gainsboro;
+  color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .AC{
   background-color: dimgray;
-  font-color: gainsboro;
+  color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .EH{
   background-color: dimgray;
-  font-color: gainsboro;
+  color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .VE{ 
   background-color: dimgray;
-  font-color: gainsboro;
+  color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .ED{
   background-color: dimgray;
-  font-color: gainsboro;
+  color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .AW{
   background-color: dimgray;
-  font-color: gainsboro;
+  color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
 a{
- font-color: black;
+ color: black;
  }
