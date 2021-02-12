@@ -16,23 +16,22 @@
   background-color: dimgray;
  }
  .Info{
-  color: gainsboro;
+  
   text-align: center;
-  font-color: white;
+  font-color: gainsboro;
  }
  p{
-  color: gainsboro;
+  
   font-size:24px;
-  font-color: white;
+  font-color: gainsboro;
  }
  li{
-  color: gainsboro;
+  
   font-size:18px;
-  font-color: white;
+  font-color: gainsboro;
  }
  .PR{
-  color: gainsboro;
-  font-color: white;
+  font-color: gainsboro;
   float: left;
   font-size: 24px;
   text-align: left;
@@ -44,37 +43,32 @@
   margin:10px;
  }
  .AC{
-  color: gainsboro;
   background-color: dimgray;
-  font-color: white;
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .EH{
-  color: gainsboro;
   background-color: dimgray;
-  font-color: white;
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .VE{ 
-  color: gainsboro;
   background-color: dimgray;
-  font-color: white;
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .ED{
-  color: gainsboro;
   background-color: dimgray;
-  font-color: white;
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
  .AW{
-  color: gainsboro;
   background-color: dimgray;
-  font-color: white;
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
