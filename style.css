@@ -19,12 +19,11 @@
   text-align: center;
   color: gainsboro;
  }
- p{
+ .p{
   font-size:24px;
   color: gainsboro;
  }
- li{
-  
+ .li{
   font-size:18px;
   color: gainsboro;
  }
@@ -76,6 +75,6 @@
   padding-left: 10px;
   margin:10px;
  }
-a{
+.a{
  color: black;
  }
