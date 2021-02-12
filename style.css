@@ -38,9 +38,8 @@
   text-align: left;
  }
  .JO{
-  color: gainsboro;
   background-color: dimgray;
-  font-color: white;
+  font-color: gainsboro;
   border: 2px solid black;
   margin:10px;
  }
@@ -81,4 +80,4 @@
  }
 a{
  font-color: black;
-}
+ }
