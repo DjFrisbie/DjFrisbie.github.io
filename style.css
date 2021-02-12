@@ -7,12 +7,11 @@
  text-align: center;
  }
  .container h1{
-  color: gainsboro;
-  font-color: black;
+  font-color: gainsboro;
   font-family: TimesNewRoman;
  }
  .jumbotron{
-  color: gainsboro;
+  font-color: gainsboro;
   background-color: dimgray;
  }
  .Info{
