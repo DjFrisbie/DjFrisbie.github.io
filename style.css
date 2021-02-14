@@ -4,6 +4,8 @@
   color: gainsboro;
   font-family: Arial;
   text-align: center;
+  border: 2px solid black;
+  border-radius: 25px;
  }
  .container h1{
    color: gainsboro;
@@ -30,7 +32,6 @@
    float: left;
    font-size: 24px;
    text-align: left;
-   border-radius: 25px;
  }
  .JO{
    background-color: dimgray;
