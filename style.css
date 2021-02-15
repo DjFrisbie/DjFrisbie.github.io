@@ -11,6 +11,10 @@
    color: gainsboro;
    font-family: TimesNewRoman;
  }
+img{
+  width: auto;
+  height: 50%;
+ }
  h4{
    font-size:28px;
    color: gainsboro;
